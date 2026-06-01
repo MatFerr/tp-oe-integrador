@@ -17,3 +17,5 @@
 * Asegurate de tener un compilador o interprete adecuado que pueda leer e interpretar el codigo de python
 * Cambia la direccion de los archivos .csv en la funciones del programa. Escribe la direccion en la que hayas guardado dichos documentos
 * Ejecuta el programa
+**PAT**
+  No se vio la necesidad de añadir un PAT, debido a que no se realizo ninguna consulta a la API de GitHub desde la terminal
